@@ -1,1 +1,3 @@
 Hello, this is a new file
+
+Despite the old creation, I wanted new one too but I thought I would add more comments on this file instead.
